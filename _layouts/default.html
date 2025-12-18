@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+
+{% seo %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+  </head>
+  <body {% if page.multi %}class="has-toc"{% endif %}>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <!--
+      {% if site.github.is_project_page %}
+        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+      {% endif %}
+      -->
+      {% if site.show_downloads %}
+        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
+        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
+      {% endif %}
+
+      <!--<a href="{{ '/' | relative_url }}" class="btn">{{ site.title | default: "Course Overview" }}</a>-->
+      {% for p in site.pages %}
+         {% if p.title and p.nav != false %}
+             <a href="{{ p.url | relative_url }}" class="btn">{{ p.title }}</a>
+        {% endif %}
+      {% endfor %}
+    </header>
+
+      {% if page.multi %}
+      <button id="toc-toggle" class="toc-toggle" aria-expanded="true" aria-controls="toc-sidebar" title="Hide / show contents">Contents</button> 
+
+     {% comment %}determine folder of current page by removing the filename{% endcomment %}
+     {% assign parts = page.path | split:'/' %}
+     {% assign last = parts | last %}
+     {% assign folder = page.path | remove: last %}
+
+     <nav id="toc-sidebar" class="toc-sidebar" role="navigation" aria-label="Table of contents">
+       
+       <ul>
+         {%- comment -%}always emit start first{%- endcomment -%}
+         {% for p in site.pages %}
+           {% if p.path contains folder %}
+             {% assign pparts = p.path | split:'/' %}
+             {% assign plast = pparts | last %}
+             {% if plast == 'start.md' or plast == 'start.markdown' or plast == 'start.html' %}
+               <li class="{% if page.url == p.url %}is-active{% endif %}">
+                 <a href="{{ p.url | relative_url }}">{{ p.title | default: plast | replace:'.md','' | replace:'.markdown','' | replace:'.html','' }}</a>
+               </li>
+             {% endif %}
+           {% endif %}
+         {% endfor %}
+
+         {%- comment -%}then the rest alphabetically by title{% endcomment -%}
+         {% assign folder_pages = site.pages | sort: "path" %}
+         {% for p in folder_pages %}
+           {% if p.path contains folder %}
+             {% assign pparts = p.path | split:'/' %}
+             {% assign plast = pparts | last %}
+             {% if plast != 'start.md' and plast != 'start.markdown' and plast != 'start.html' %}
+               <li class="{% if page.url == p.url %}is-active{% endif %}">
+                 <a href="{{ p.url | relative_url }}">{{ p.title | default: plast | replace:'.md','' | replace:'.markdown','' | replace:'.html','' }}</a>
+               </li>
+             {% endif %}
+           {% endif %}
+         {% endfor %}
+       </ul>
+     </nav>
+   {% endif %}
+
+   
+
+    <main id="content" class="main-content" role="main">
+      <p style="text-align: right;font-size: 20px;">
+      <strong>
+        {% if page.prev %}
+          <a href="{{ page.prev }}">&larr; Previous |</a>
+        {% endif %}
+        {% if page.next %}
+          <a href="{{ page.next }}">| Next &rarr;</a>
+        {% endif %}
+      </strong>
+      </p>
+
+      {{ content }}
+    
+    <!--Organize posts on the Refrences page-->
+    {% if page.blog %}
+      {% for post in site.posts %}
+        {% if page.active != false %}
+          <div class="post" onclick=" location.href='{{ post.url | relative_url }}';" style="cursor: pointer;">
+              <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+              <p>{{post.description}}</p>
+          </div>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+
+    <!--Organize labs-->
+    {% if page.labs %}
+    {% assign lab_pages = site.pages | sort: "title" %}      
+      {% for p in lab_pages %}
+        {% if p.path contains 'labs' %}
+          {% assign parts = p.path | split: '/' %}
+          {% assign last = parts | last %}
+          {% if last == 'start.md' or last == 'start.markdown' or last == 'start.html' %}
+          
+          <div class="lab-start post" onclick=" location.href='{{ p.url | relative_url }}';" style="cursor: pointer;">
+              <h3><a href="{{ p.url | relative_url }}">{{ p.title | default: last | replace:'.md','' | replace:'.markdown','' | replace:'.html','' }}</a></h3>
+              {% if p.description %}
+                <p>{{ p.description }}</p>
+              {% endif %}
+          </div>
+          
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+    <p style="text-align: right;font-size: 20px;">
+    <!--Navigate to previous and next-->
+    <strong>
+    {% if page.prev %}
+      <a href="{{ page.prev }}">&larr; Previous |</a>
+    {% endif %}
+    {% if page.next %}
+      <a href="{{ page.next }}">| Next &rarr;</a>
+    {% endif %}
+    </strong>
+    </p>
+
+      <footer class="site-footer">
+        {% if site.github.is_project_page %}
+          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+        {% endif %}
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
+      </footer>
+    </main>
+
+  <script>
+    (function(){
+      var btn = document.getElementById('toc-toggle');
+      var body = document.body;
+      var toc = document.getElementById('toc-sidebar');
+      if(!btn || !toc) return;
+      // restore previous preference; default = visible
+      var collapsed = localStorage.getItem('tocCollapsed') === 'true';
+      if(collapsed) {
+        body.classList.add('toc-collapsed');
+        btn.setAttribute('aria-expanded','false');
+      } else {
+        btn.setAttribute('aria-expanded','true');
+      }
+      btn.addEventListener('click', function(){
+        var isCollapsed = body.classList.toggle('toc-collapsed');
+        btn.setAttribute('aria-expanded', (!isCollapsed).toString());
+        localStorage.setItem('tocCollapsed', isCollapsed);
+      });
+    })();
+  </script>
+  </body>
+</html>

@@ -1,0 +1,9 @@
+_layouts/default.html~
+.DS_Store
+.gitignore
+#_config.yml#
+Gemfile.lock
+.Rhistory
+_site/
+Gemfile~
+*.bak

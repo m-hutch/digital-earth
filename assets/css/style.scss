@@ -1,0 +1,145 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// styles: light grey rounded rectangle behind images + 200px space after each image
+// adjust colors, radius, and padding as needed
+.main-content img,
+.content img,
+article img,
+.post img {
+  display: block;           /* treat images as block-level for consistent spacing */
+  max-width: 100%;         /* keep responsive */
+  height: auto;
+  background: #f5f5f6;     /* light grey rectangle behind the image */
+  padding: 16px;            /* space between image and grey background edge */
+  border-radius: 20px;     /* rounded corners on the grey rectangle */
+  margin-bottom: 50px;    /* 200px white space after each image */
+  box-sizing: border-box;  /* include padding in layout calculations */
+}
+
+/* If images are wrapped inline in paragraphs, ensure they behave the same */
+.main-content p > img,
+.content p > img {
+  display: block;
+}
+
+.post {
+  display: inline-block;
+  width: 100%;
+  background: #ffffff; /* white rectangle */
+  color: inherit;
+  padding: 0.5rem 0.9rem;
+  border-radius: 12px; /* rounded corners */
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12); /* drop shadow */
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  margin: 0.5rem 0; /* vertical spacing */
+  transition: transform 0.12s ease, box-shadow 0.12s ease;
+}
+
+.post a {
+  color: inherit;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.post:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.14);
+}
+
+/* floating table-of-contents sidebar for multi pages */
+.toc-sidebar {
+  position: fixed;
+  left: 1rem;
+  top: 21rem; /* below header */
+  width: 240px;
+  max-height: calc(100vh - 6rem);
+  overflow: auto;
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 0.75rem;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+  border: 1px solid rgba(0,0,0,0.06);
+  z-index: 40;
+}
+.toc-sidebar .toc-title {
+  margin: 0 0 0.5rem 0;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+.toc-sidebar ul { list-style: none; margin: 0; padding: 0; }
+.toc-sidebar li { margin: 0.25rem 0; }
+.toc-sidebar a { color: inherit; text-decoration: none; display: block; padding: 0.25rem 0.35rem; border-radius: 6px; }
+.toc-sidebar li.is-active a,
+.toc-sidebar a:hover {
+  background: #f0f7f7;
+  font-weight: 700;
+}
+
+/* shift main content so the sidebar doesn't overlap */
+/*.has-toc .main-content { margin-left: 270px; }
+*/
+
+
+/* toggle button to collapse/un-collapse the TOC (visible by default) */
+.toc-toggle {
+  position: fixed;
+  left: 1rem;
+  top: 20rem;
+  z-index: 50;
+  background: #157878;
+  color: #fff;
+  border-radius: 8px;
+  padding: 6px 10px;
+  border: none;
+  cursor: pointer;
+  font-size: 0.85rem;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+}
+
+/* smooth show/hide for sidebar */
+.toc-sidebar {
+  transition: transform 0.22s ease, opacity 0.22s ease;
+}
+
+/* collapsed state: hide sidebar and remove left margin from content */
+body.toc-collapsed .toc-sidebar {
+  transform: translateX(-280px);
+  opacity: 0;
+  pointer-events: none;
+}
+body.toc-collapsed .has-toc .main-content {
+  margin-left: 0;
+}
+
+/* responsive adjustments (keep TOC available; no auto-hide) */
+@media (max-width: 900px) {
+  .toc-sidebar { width: 200px; top: 4.8rem; }
+  .toc-toggle { top: 3.8rem; left: 0.75rem; }
+}
+
+/* alert box styles */
+.alert {
+  display: block;
+  background-color: #fff3cd; /* light yellow background */
+  border: 1px solid #ffeeba; /* yellow border */
+  color: #856404; /* dark yellow text */
+  padding: 12px 16px;
+  border-radius: 8px;
+  margin: 16px 0;
+  font-weight: 600;
+}
+
+/* tip box styles */
+.tip {
+  display: block;
+  background-color: #d4edda; /* light green background */
+  border: 1px solid #c3e6cb; /* green border */
+  color: #155724; /* dark green text */
+  padding: 12px 16px;
+  border-radius: 8px;
+  margin: 16px 0;
+  font-weight: 600;
+}

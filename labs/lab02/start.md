@@ -88,7 +88,7 @@ The lab will be graded based on the Key Performance Indicators (KPIs):
 ## Set up material
 Before starting, make sure to download:
 - [Lab02_Report.docx]({{'/labs/lab02/Lab02_Report.docx' | relative_url}})
-- [data.zip]({{'/labs/lab02/data.zip' | relative_url}})
+- [data.zip](https://utdallas.box.com/s/spe03xdncp16ya1amb7ut8jn7fy9msvk)
 - [Layout_example]({{'/labs/lab02/Layout_example.png' | relative_url}}){:target="_blank"} 
 
 Create a folder called `lab02` in your `digital-earth` folder on your computer and save the report and data to this folder.

@@ -18,6 +18,14 @@ prev: Null
 - Use imagery to compare changes over time
 - Share a map tour to communicate a theme
 
+## Key Performance Indicators:
+These indicators are used to assess student performance.
+- **KPI 1**: Find known points by name on a map.
+- **KPI 2**: Navigate a 3D map camera.
+- **KPI 3**: Identify Points by their map coordinates.
+- **KPI 4**: Identify changes over time using historical imagery.
+- **KPI 5**: Apply skills learned in class to make and share a themed map tour.
+
 ## Requirements
 - Microsoft Word
 - A computer that can connect to the Internet
@@ -48,9 +56,9 @@ The lab will be graded based on these Key Performance Indicators (KPIs):
 |//	|Report document is professionally formatted|6|
 |1|	Produce a map of the five points of interest|10|
 |2|	Navigate camera to view 3D Model of Lincoln	|10|
-|3|	Identify Points by their map coordinates	|10|
-|4|	Use historical imagery to detect changes	|20|
-|5|	Make a Map tour and share it	|40|
+|3|	Identify six points by their map coordinates	|10|
+|4|	Provide two historical images of the named intersection and document observed changes	|20|
+|5|	Make a Map tour of custom points and share it	|40|
 |---|---|---|
 | | **Total**| 100|
 

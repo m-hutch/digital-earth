@@ -22,7 +22,7 @@ prev: part4
 
 3. Use the dropdown menu next to the Color input to select a new fill color for the state of Texas. For this map, a light, neutral color is best. Click **OK** to apply the changes and close the layer properties window.
 
-4. Open the layer properties window of the `Texas_Cities` layer and go to the Symbology section. Notice that it looks slightly diferent than the boundary layer's symbology window.
+4. Open the layer properties window of the `Texas_Cities` layer and go to the Symbology section. Notice that it looks slightly different than the boundary layer's symbology window.
 
     ![](part5_images/screenshot2.jpg)
 
@@ -34,7 +34,7 @@ prev: part4
 
     ![](part5_images/screenshot3.jpg)
 
-# Appling Category-based symbology
+# Applying Category-based symbology
 
 1. Open the Symbology section of the layer properties window for the `TxDOT_Roadways` layer.
 

@@ -20,7 +20,7 @@ For standard map layouts, there are several key elements that are typically incl
 * Coordinate Reference System (CRS).
 
 # How to create a custom layout
-1. Before making a layout, make sure your map view is centered and zoomed appropriatly by right-clicking the `Texas_State_Boundary` layer and selecting "Zoom to layer".
+1. Before making a layout, make sure your map view is centered and zoomed appropriately by right-clicking the `Texas_State_Boundary` layer and selecting "Zoom to layer".
 
 2. Click the "New Print Layout" icon in the tool bar.
 
@@ -71,7 +71,7 @@ For standard map layouts, there are several key elements that are typically incl
 
     ![](part7_images/screenshot6.jpg)
 
-2. Notice that your cursor icon has changed from a pointer to a crosshairs. This indicates you are in creation mode.
+2. Notice that your cursor icon has changed from a pointer to a cross-hairs. This indicates you are in creation mode.
 
     Click and drag on your layout page to make a large square. The map will start to render as soon as you release your mouse click.
 
@@ -99,7 +99,7 @@ For standard map layouts, there are several key elements that are typically incl
 
 # How to add linked map elements
 
-1. In the Tool box, select the **Add North Arrow** icon, then click and drag on your layout te create a small north arrow icon
+1. In the Tool box, select the **Add North Arrow** icon, then click and drag on your layout to create a small north arrow icon
 
     ![](part7_images/screenshot12.jpg)
 
@@ -113,7 +113,7 @@ For standard map layouts, there are several key elements that are typically incl
 
     ![](part7_images/screenshot14.jpg)
 
-4. Right click on the scale bar and select "item properties." Notice in the **Main Properties** section that the item is linked to our Map 1 we created. Change the scalebar units to *miles*. You can also adjust the length of each scalebar segment and number of segments in the **Segments** section.
+4. Right click on the scale bar and select "item properties." Notice in the **Main Properties** section that the item is linked to our Map 1 we created. Change the scale bar units to *miles*. You can also adjust the length of each scale bar segment and number of segments in the **Segments** section.
 
     ![](part7_images/screenshot15.jpg)
 
@@ -127,7 +127,7 @@ For standard map layouts, there are several key elements that are typically incl
 
 8. Right click on the `TxDOT_Roadways` subgroup header and change the visibility to "Hidden".
 
-    <span class='tip'>If there are any extra road groups on your legend aside from Interstae Highway and US highway, you can remove them by selecting the group you want to remove and then clicking the red minus symbol at the bottom of the Legend Items section.</span>
+    <span class='tip'>If there are any extra road groups on your legend aside from Interstate Highway and US highway, you can remove them by selecting the group you want to remove and then clicking the red minus symbol at the bottom of the Legend Items section.</span>
 
 9. Double click on each remaining item to update its label to a clear, professional, and easy to read label.
 
@@ -159,7 +159,7 @@ We can also add text that updates automatically using map and project properties
 
 1. Create another text box at the bottom of your map layout. In the item properties, erase the default text.
 
-2. We will use dynamic text to add the Coordinate Refernce System (CRS) Name. This gives us information about how the map was projected. We will learn more about CRS later in the semester. 
+2. We will use dynamic text to add the Coordinate Reference System (CRS) Name. This gives us information about how the map was projected. We will learn more about CRS later in the semester. 
 
     Select "Dynamic Text"> Map Properties > Map 1> CRS Name
 

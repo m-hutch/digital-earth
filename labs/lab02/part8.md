@@ -24,7 +24,7 @@ prev: part7
 
 4. Use the red minus button to remove all attributes except `CITY_NM` (City name) and `POP2022` (Population 2022). Rename the headings for these attributes to be appropriate, professional titles.
 
-    If you accidentatlly remove an attribute you need, you can add it back with the green plus button. You can reorder the attributes using the blue arrows.
+    If you accidentally remove an attribute you need, you can add it back with the green plus button. You can reorder the attributes using the blue arrows.
 
     ![](part8_images/screenshot2.jpg)
 
@@ -40,7 +40,7 @@ prev: part7
 
     ![](part8_images/screenshot4.jpg)
 
-    We can fix this with formatting. Reopen the **Attributes** window (Hint: click the Attributes button at the top of the itme properties).
+    We can fix this with formatting. Reopen the **Attributes** window (Hint: click the Attributes button at the top of the item properties).
 
 9. Double-click the `POP2022` field, then click the purple epsilon (this opens Expression Builder).
 
@@ -50,7 +50,7 @@ prev: part7
 
     `format_number("POP2022",0)`
 
-    `format_number` is the name of the function. The parenthesies `()` wrap around the *arguments* or *inputs* to the function. The first input is our attribute we want to format, `"POP2022"`. The second input is the number of decimal places we want displayed, `0`.
+    `format_number` is the name of the function. The parentheses `()` wrap around the *arguments* or *inputs* to the function. The first input is our attribute we want to format, `"POP2022"`. The second input is the number of decimal places we want displayed, `0`.
 
     If you entered the function correctly, you should see a preview at the bottom of the window.
 

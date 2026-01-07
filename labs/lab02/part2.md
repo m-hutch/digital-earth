@@ -30,23 +30,23 @@ First we will add one layer using the Browser panel. This is the easiest way to 
 3. Click the "Save" icon in the tool bar to save your changes. The `*` indicator in the project name should disappear after saving. **You should regularly save your work when working in QGIS**. If the program crashes or your laptop powers off, only the work from before the last save will be maintained.
 
 # Method 2: How to add data using the Data Source Manager
-Now we will practice using the Data Source Manager. This is the most versitile way to add data since you can add data from anywhere on your computer or hosted publicly on the Internet.
+Now we will practice using the Data Source Manager. This is the most versatile way to add data since you can add data from anywhere on your computer or hosted publicly on the Internet.
 
 1. Click the **Open Data Source Manager** icon in the tool bar.
 
     ![](part2_images/screenshot3.jpg)
 
-2. Next we need to select the type of data we are importing. We want to import a single layer Geopackage, which is a type of vector data set. Select `Vector` in the Data Source Manager window.
+2. Next we need to select the type of data we are importing. We want to import a single layer GeoPackage, which is a type of vector data set. Select `Vector` in the Data Source Manager window.
 
     ![](part2_images/screenshot4.jpg)
 
-    <span class='alert'>In this lab, we will not be using the Geopackage specific import option. That is a more advanced input method that is not covered in this lab.</span>
+    <span class='alert'>In this lab, we will not be using the GeoPackage specific import option. That is a more advanced input method that is not covered in this lab.</span>
 
 3. In the Data Source Manager window, make sure that the **Source Type** selected is `File`. Then click the three dots next to the **Vector Data Set** field to select the file.
 
     ![](part2_images/screenshot5.jpg)
 
-4. In the file window that opens, find the `TxDOT_Roadways.gpkg` Geopackage in your `data folder. Select this file and click "Open". 
+4. In the file window that opens, find the `TxDOT_Roadways.gpkg` GeoPackage in your `data folder. Select this file and click "Open". 
 
 5. Click **Add** one time. The Data Source Manager window will not close, but the layer will start loading in the background automatically. This is a large file, so it may take a few seconds to fully load all the roads.
 
@@ -74,7 +74,7 @@ Now we will practice using the Data Source Manager. This is the most versitile w
 
 It's possible to accidentally add the same layer twice, or maybe you want to remove a layer that you are not using anymore. In these cases, you can easily remove a layer from the layer Panel.
 
-1. Practice removing a layer from the layer panel by **Right-cliking** the name of a layer and selecting the "Remove layer" option. The map will re-draw without this layer.
+1. Practice removing a layer from the layer panel by **Right-clicking** the name of a layer and selecting the "Remove layer" option. The map will re-draw without this layer.
 
 2. Add back any missing layers and re-arrange the order as necessary so that you have exactly three layers:
 * Texas Cities

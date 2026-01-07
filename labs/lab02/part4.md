@@ -10,7 +10,7 @@ next: part5
 prev: part3
 ---
 
-We still have a lot of cities on our map. We want to highlight the major cities. To do that we need to make a seperate layer of just major cities.
+We still have a lot of cities on our map. We want to highlight the major cities. To do that we need to make a separate layer of just major cities.
 
 # How to select by attribute
 
@@ -41,11 +41,11 @@ We need to export our selection to save it and use it later.
 
     ![](part4_images/screenshot6.jpg)
 
-    <span class="alert">If this option is disabled (grey unclickable text), it is because you don't have any features selected in this layer. Go back to the top of this page and try the selection again before proceeding.</span>
+    <span class="alert">If this option is disabled (gray unclickable text), it is because you don't have any features selected in this layer. Go back to the top of this page and try the selection again before proceeding.</span>
 
 2. In the "Save Vector Layer As..." window, click the three dots next to the **File** input. Navigate to your `lab02` folder and save the file under the name `major_cities`.
 
-3. Set the layer name to `Major Cities` and make sure the **Format** is set to "GeoPackage". Keep the "Save only selected features" and "Add saved file to map" options checked. Clik **OK** to save the new layer.
+3. Set the layer name to `Major Cities` and make sure the **Format** is set to "GeoPackage". Keep the "Save only selected features" and "Add saved file to map" options checked. Click **OK** to save the new layer.
 
     ![](part4_images/screenshot7.jpg)
 

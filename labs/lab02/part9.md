@@ -16,7 +16,7 @@ prev: part8
 
     ![](part9_images/screenshot.jpg)
 
-2. In the file explorer window, navigate to your `Lab02` folder and save the file under the name "Texas Cities and Roads". Make sure the file type is set to **PNG**. PNG stands for Portable Network Graphics and is a versitile file type for saving high-resolution images.
+2. In the file explorer window, navigate to your `Lab02` folder and save the file under the name "Texas Cities and Roads". Make sure the file type is set to **PNG**. PNG stands for Portable Network Graphics and is a versatile file type for saving high-resolution images.
 
 
 3. In the **Image Export Options** window, set the DPI (dots-per inch) to **500**. Click **Save**.

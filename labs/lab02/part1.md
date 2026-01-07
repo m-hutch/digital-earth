@@ -30,7 +30,7 @@ prev: part1
 
     <span class='tip'>If you don't see your Browser panel, you can re-open it by going to `View > Panels > Browser` in the menu bar.</span>
 
-6. In the Browser panel, click the arrow next to your `Project` folder to expand the contents. Make sure you can seee the unzipped `data` folder. Also expand the `data` folder. Make sure you can see three data files.
+6. In the Browser panel, click the arrow next to your `Project` folder to expand the contents. Make sure you can see the unzipped `data` folder. Also expand the `data` folder. Make sure you can see three data files.
 
     ![](part1_images/screenshot4.jpg)
 
@@ -45,7 +45,7 @@ This method is the most reliable. You should already be familiar with this metho
 
 1. Navigate to your `lab02` folder using your file manager.
 
-2. Identify the QGIS project file. The file should end with the extenstion `.qgz`.
+2. Identify the QGIS project file. The file should end with the extension `.qgz`.
 
     <span class='tip'>If you can't see the file extensions in your file manager, you can find a tutorial on how to change this setting on the class [Resources](../../resources) page</span>
 

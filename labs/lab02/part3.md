@@ -11,21 +11,21 @@ prev: part2
 ---
 
 # How to use the statistics panel
-1. Click the "Show Statisticcal Summary" icon on the tool bar.
+1. Click the "Show Statistical Summary" icon on the tool bar.
     ![](part3_images/screenshot.jpg)
 
 2. In the Statistics panel, use the first drop down menu to select the layer you want to examine. For now, select `TxDot_Roadways`
 
     ![](part3_images/screenshot2.jpg)
 
-3. The second dropdown menu lets you select the attribute you want to analyse. These usually have abbreviated titles. For now, select, `RTE_PRFX`, which stands for "Route Prefix". Wait for the statistcs summary to laod.
+3. The second drop-down menu lets you select the attribute you want to analyze. These usually have abbreviated titles. For now, select, `RTE_PRFX`, which stands for "Route Prefix". Wait for the statistics summary to load.
 
     ![](part3_images/screenshot3.jpg)
 
 4. Examine the statistics summary.
     ![](part3_images/screenshot4.jpg)
 
-    **Count** refers to the count of feautures. This summary shows over 500-thousand road features in this data set.
+    **Count** refers to the count of features. This summary shows over 500-thousand road features in this data set.
 
     **Count (distinct)** refers to the count of unique Route Prefixes. 
 

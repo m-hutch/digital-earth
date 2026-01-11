@@ -25,7 +25,7 @@ Throughout the semester you can use the class Microsoft Teams Chat to ask questi
 
     * Class Chat - Here you can chat with your classmates about any academic related topic
 
-    * Introductions - This chanel is for introducing yourself
+    * Introductions - This channel is for introducing yourself
 
     * Lab Help - This channel is for chatting with your classmates and Teaching Assistants about any issues you have with the lab assignments.
 
@@ -52,7 +52,7 @@ Throughout the semester you can use the class Microsoft Teams Chat to ask questi
 
     If you don't remember how to take a cropped screenshot, you can watch a tutorial on the [Resources](../../resources) page
 
-# Quantumn Geospatial Information System (QGIS)
+# Quantum Geospatial Information System (QGIS)
 
 QGIS is the mapping software we will use for most assignments this semester. It is **very important** that you install this software in the first week of class so that we can address any issues you may run in to. The installation can take up to **1 hour** to complete.
 
@@ -70,7 +70,7 @@ If you have not installed QGIS yet, do that first before proceeding with this se
 
 5. In the Layers panel **Right Click** on the `Digital Earth Message` Layer and select "Zoom to Layer".
 
-    *If you are using a laptop with a trackpad and no mouse button, most laptops use a two-finger click to "right-click"*
+    *If you are using a laptop with a track pad and no mouse button, most laptops use a two-finger click to "right-click"*
 
     ![](part3_images/image7.png)
 

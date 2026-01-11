@@ -14,6 +14,31 @@ next: part1
 
 This scavenger hunt will help you get familiar with the Digital Earth Course at UT Dallas and identify helpful resources you may need throughout the semester.
 
+## Goals
+- Familiarize yourself with the Digital Earth Course structure and policies
+- Install necessary software for the course
+- Locate important resources for success in the course
+
+## Key Performance Indicators
+These indicators are used to assess student performance:
+
+- **KPI 1**: Identify yourself
+- **KPI 2**: Complete a quiz on the Learning Management System (eLearning)
+- **KPI 3**: Access and post in the class discussion chat
+- **KPI 4**: Install QGIS
+- **KPI 5**: Locate the Green Hall Computer Labs on campus
+
+## Requirements
+- UT Dallas login
+- Comet Card
+- Smartphone with camera
+- QGIS software
+- Microsoft Teams Desktop software
+- Microsoft Word 365 Desktop software
+
+**Make sure to install all necessary software before starting the lab**
+
+## Lab Overview
 There are five parts to this lab:
 
 * Lab Set Up
@@ -33,7 +58,7 @@ The lab will be graded based on these Key Performance Indicators (KPIs):
 |3|Navigate to the class Teams chat and introduce yourself to your classmates on Teams. Introduction includes your name, major, year in school, and home city.|10|
 |4|Install QGIS on your laptop and practice opening a QGIS project file. Provide a screenshot of the open project file and Digital Earth Message layer|10|
 |5|Navigate to the two computer labs in Green Hall. Provide a photo of yourself in front of each lab. |20|
-|6|Navigate to the two technology helpdesks on campus. Provide a photo of yourself in front of each helpdesk.|20|
+|6|Navigate to the two technology help desks on campus. Provide a photo of yourself in front of each help desk.|20|
 |---|---|---|
 | | **Total**| 100|
 

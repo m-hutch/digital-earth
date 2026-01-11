@@ -14,7 +14,7 @@ You can use the UT Dallas online interactive map to easily find rooms on campus.
 
 1. On your computer, navigate to [https://map.utdallas.edu](https://map.utdallas.edu){:target="_blank"} in your browser. 
 
-2. In the search bar, search for the **room number** of each of the scavenger hunt locations. Not all named rooms have their name in the UT Dallas map, so it's best to allways search by room number. A UTD room number consists of a building code (two letters) followed by the floor number, a decimal point, and then a room number. Make sure to include the **full** room identifier when searching for each room.
+2. In the search bar, search for the **room number** of each of the scavenger hunt locations. Not all named rooms have their name in the UT Dallas map, so it's best to always search by room number. A UTD room number consists of a building code (two letters) followed by the floor number, a decimal point, and then a room number. Make sure to include the **full** room identifier when searching for each room.
 
     Find all four of these locations on the online map
 
@@ -48,7 +48,7 @@ Next we will learn how to navigate to the locations using a smartphone.
     **Double check that the room number is correct before you select it**
     ![](part4_images/image3.jpg)
 
-4. Click the arrow directions icon. Enter your starting point (the easiest way is to select "Use my location" if your location settiings are enabled). You can also enter the room number for your current location instead. 
+4. Click the arrow directions icon. Enter your starting point (the easiest way is to select "Use my location" if your location settings are enabled). You can also enter the room number for your current location instead. 
     ![](part4_images/image4.jpg)
 
 5. Click **Begin Route** and follow the directions to find the selected location.
@@ -59,4 +59,4 @@ Next we will learn how to navigate to the locations using a smartphone.
 
 7. Repeat steps 2 through 6 for the remaining three locations.
 
-8. Add your photos to your lab report. If you aren't sure how to tranfer photos from your phone to your computer, you can use the instructions on the class [Resources](../../resources) page. **Make sure to label each photo and resize each photo appropriately so that it fits on the page**
+8. Add your photos to your lab report. If you aren't sure how to transfer photos from your phone to your computer, you can use the instructions on the class [Resources](../../resources) page. **Make sure to label each photo and resize each photo appropriately so that it fits on the page**

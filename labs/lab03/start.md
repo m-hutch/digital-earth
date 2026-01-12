@@ -10,6 +10,7 @@ prev: NULL
 next: part1
 ---
 # Lab 3 - Cartography
+*Estimated time to complete: 2 hours*  
 
 ## Goals  
 * Apply basic cartographic principals
@@ -46,6 +47,15 @@ These indicators are used to assess student performance.
 ## Lab Overview
 
 There are **eight** parts to this lab:
+
+- Importing Data
+- Using the Identify Features tool
+- Creating a highlight map
+- Filter layer by attribute
+- Filter layer by location
+- Make a population density map
+- Make a print layout with two maps
+- Submit your lab report
 
 Please complete each part in order and submit your lab report before the due date.
 
@@ -89,7 +99,7 @@ Before starting, make sure to download:
 
 Create a folder called `lab03` in your `digital-earth` folder on your computer and save the report and data to this folder.
 
-After you have saved both files to your `lab02 folder`, extract (unzip) the compressed data folder before starting the lab. You do not need to unzip the second layer of folders (`texas_cities.zip`, `texas_roads.zip`, `texas_counties.zip`, `texas_ct_2020.zip`)
+After you have saved both files to your `lab03` folder, extract (unzip) the compressed data folder before starting the lab. You do not need to unzip the second layer of folders (`texas_cities.zip`, `texas_roads.zip`, `texas_counties.zip`, `texas_ct_2020.zip`)
 
 Before proceeding, familiarize yourself with Texas geography and choose a county to make a Population density map about:
 [https://texascountiesdeliver.org/mycounty](https://texascountiesdeliver.org/mycounty){:target="_blank"}

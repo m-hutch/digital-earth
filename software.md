@@ -21,6 +21,6 @@ Quantum Geographic Information System (QGIS) is an open-source GIS software main
 - [Windows QGIS installation instructions]({{ '/software_install/QGIS_WindowsOS/install_QGIS_Windows' | relative_url}})
 
 ## Google Earth Pro
-Google Earth Pro is the Desktop version of Google Earth.
+Google Earth Pro is the Desktop version of Google Earth. This software is **Optional** for this course.
 
 [Google Earth Pro (Desktop) installation instructions](https://support.google.com/earth/answer/21955?hl=en){:target="_blank"}

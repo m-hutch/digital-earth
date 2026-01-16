@@ -73,7 +73,7 @@ The lab will be graded based on the Key Performance Indicators (KPIs):
 |4a|	US highways and Interstate highways are represented in two different colors|5|
 |4b| Large cities and Major cities are represented by appropriately different symbols |5|
 |5| Major cities are labeled by city name using size 12 text in a non-default legible font with a text buffer|10|
-|6| Layout is a 8-inch by 8-inch square and has an appropriate background color other than white |5|
+|6| Layout is a 8-inch by 8-inch square and has an appropriate background color other than white |10|
 |7a| Title is legible and appropriately named  in size 36 text using a non-default font |2|
 |7b| Data source, map author name and date are in size 14 text using the same font as the cites labels|3|
 |7c| CRS name is visible using dynamic text feature, in size 12 text using the same font as the map author name and date|5|

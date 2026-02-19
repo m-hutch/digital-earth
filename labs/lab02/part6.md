@@ -24,7 +24,7 @@ It will be helpful to label the major cities on our map. This page shows you how
 
 3. in the **Text** options, change the font to any *legible* font of your choice (do not use the default). 
 
-    Adjust the text size to 14-point
+    Adjust the text size to 12-point or 14-point
 
     ![](part6_images/screenshot2.jpg)
 

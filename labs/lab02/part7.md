@@ -113,7 +113,7 @@ For standard map layouts, there are several key elements that are typically incl
 
     ![](part7_images/screenshot14.jpg)
 
-4. Right click on the scale bar and select "item properties." Notice in the **Main Properties** section that the item is linked to our Map 1 we created. Change the scale bar units to *miles*. You can also adjust the length of each scale bar segment and number of segments in the **Segments** section.
+4. Right click on the scale bar and select "item properties." Notice in the **Main Properties** section that the item is linked to our Map 1 we created. Change the scale bar units to *miles*. You can also adjust the length of each scale bar segment and number of segments in the **Segments** section. **Adjust the length and number of segments to any appropriate values that fit with the theme and use of your map**
 
     ![](part7_images/screenshot15.jpg)
 

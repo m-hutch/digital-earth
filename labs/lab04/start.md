@@ -80,7 +80,7 @@ Before starting, make sure to download:
 
 - [Lab04_Report.docx]({{'/labs/lab04/Lab04_Report.docx' | relative_url}}){:target="_blank"}
 - [data.zip](https://utdallas.box.com/s/pumkf7c997t6ykn2eksgglub2s8fjosm){:target="_blank"}
-- [Layout_example]({{'/labs/lab04/Layout_Example.jpg' | relative_url}}){:target="_blank"} 
+- [Layout_example]({{'/labs/lab04/Example_Layout.jpg' | relative_url}}){:target="_blank"} 
 
 Create a folder called `lab04` in your `digital-earth` folder on your computer and save the report and data to this folder.
 

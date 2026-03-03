@@ -11,7 +11,7 @@ next: part8
 ---
 # Make a print layout with two maps
 
-1. Using what you learned in **Lab 2**, update the symbology and layer names for all the layers on your Population Map. Remove the original city and road layers that you are not using.
+1. Using what you learned in **Lab 2**, add city name labels and update the symbology and layer names for all the layers on your Population Map. Remove the original city and road layers that you are not using. 
 
     ![](part7_images/user_cropped_screenshot.png)
 

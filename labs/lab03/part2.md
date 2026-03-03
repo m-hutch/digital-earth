@@ -22,7 +22,7 @@ next: part3
     ![](part2_images/ascreenshot_1.jpeg)
 
 
-3. Click inside a county you are interested in studying. Even though we can see the census tract layer, they Identify features tool knows we are looking for counties because that's the layer we have selected in the Layer pane.
+3. Click inside a county you are interested in studying. Even though we can see the census tract layer, the Identify features tool knows we are looking for counties because that's the layer we have selected in the Layer pane.
 
     ![](part2_images/ascreenshot_2.jpeg)
 

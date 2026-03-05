@@ -23,7 +23,7 @@ next: part6
 
 3. Select features from your **texas_cities** layer. Keep the **intersect** option checked. In the "By comparing to the features from" field, select the **texas_counties** layer (NOT the highlight_counties layer!)
 
-    ![](part5_images/user_cropped_screenshot.png)
+    ![](part5_images/select_by_location.png)
 
 
 4. Click "**Run"** then click **"Close"**

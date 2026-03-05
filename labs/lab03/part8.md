@@ -20,7 +20,7 @@ next: NULL
 
 1. Upload all required documents in the same submission. **Only the last submission will be graded**:
     - Lab03_Report.docx
-    - Population_Density_Map.PDF
+    - FIRSTNAME_LASTNAME_lab3_map.PDF
 
     <span class='alert'>Your lab report must be submitted as a `.docx` file. DO NOT submit a `.pages` file or a `.pdf` file
     </span>

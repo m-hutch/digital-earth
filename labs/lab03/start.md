@@ -23,7 +23,7 @@ These indicators are used to assess student performance.
 * **KPI 1**: Choose an appropriate location
 * **KPI 2**: Make a highlight map
 * **KPI 3**: Filter layer by attribute
-* **KPI 4:**: Filter layer by location
+* **KPI 4**: Filter layer by location
 * **KPI 5**: Make population density map
 * **KPI 6**: Apply skills from previous labs
 * **KPI 7**: Maintain margins & page size

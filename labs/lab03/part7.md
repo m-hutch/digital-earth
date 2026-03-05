@@ -131,7 +131,7 @@ next: part8
 24. Use the **Add Text** tool with dynamic text to add the **CRS Name** to your map.
 
 
-25. Click **Export as PDF**. Save the layout under the file name FIRSTNAME_LASTNAME_lab3_report.pdf, replacing FIRSTNAME with your first name and LASTNAME with your last name
+25. Click **Export as PDF**. Save the layout under the file name FIRSTNAME_LASTNAME_lab3_map.pdf, replacing FIRSTNAME with your first name and LASTNAME with your last name
 
     ![](part7_images/user_cropped_screenshot_2.png)
 

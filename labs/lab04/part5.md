@@ -36,7 +36,7 @@ The Quick Map Service (QMS) is a plugin that easily
 
     ![](part5_images/screenshot5.jpg)
 
-4. Remove the OMS Standard Layer from your map.
+4. Remove the OSM Standard Layer from your map.
 
 5. Click on the globe icon with a magnifying glass to open the "Search NextGIS QMS". This is where you can search different keywords to find lots of different types of base maps. Try some of these:
     * `satellite` will return a list of satellite imagery maps

@@ -18,7 +18,7 @@ next: part7
     ![](part6_images/ascreenshot.jpeg)
 
 
-2. Click "New 3D Map View"
+2. Click In the task bar at the top, Click View, hover over "3D Map Views" then click "New 3D Map View"
 
     ![](part6_images/ascreenshot_1.jpeg)
 

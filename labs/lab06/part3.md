@@ -35,7 +35,7 @@ next: part4
     </span>
 
 
-4. save the new layer in your lab 6 folder as "TR_sites_1mi_near_Dallas.gpkg". Make sure the CRS is set to EPSG: 3627, UTM zone 14N
+4. save the new layer in your lab 6 folder as "TR_sites_1mi_near_Dallas.gpkg". Make sure the CRS is set to EPSG: 3721, UTM zone 14N
 
     ![](part3_images/user_cropped_screenshot_1.png)
 

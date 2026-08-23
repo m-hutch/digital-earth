@@ -13,18 +13,13 @@ prev: part1
 # Access the Syllabus
 A course syllabus is a road map for a class, outlining its structure, expectations, policies, and schedule, serving as a contract between instructor and students. It details learning objectives, required materials (textbooks, software), assignment deadlines, grading criteria, and instructor contact info, helping students manage time and stay organized for success. 
 
-1. Navigate to the Digital Earth course on [eLearning.utdallas.edu](elearning.utdallas.edu){:target="_blank"}.
+1. Navigate to the Digital Earth course on [utdallas.instructure.com](https://utdallas.instructure.com/){:target="_blank"}.
 
 2. On the course homepage, click the **Syllabus** item. 
 
-3. eLearning will open the syllabus file in your browser. You can always come here to quickly review the syllabus when necessary
+3. Click the `Syllabus.pdf` link at the top of the page to open the syllabus file in your browser. You can always come here to quickly review the syllabus when necessary
 
-4. Click the `A` icon next to the Syllabus title (stands for "Alternative Formats").
-    ![](part2_images/screenshot.jpg)
-
-5. Click the download icon next to the PDF file. Save the syllabus in your `digital-earth` folder. 
-
-    ![](part2_images/screenshot2.jpg)
+5. Click the download icon at the top of the page. Save the syllabus in your `digital-earth` folder. 
 
 # Complete the Syllabus Quiz
 
@@ -32,7 +27,7 @@ A course syllabus is a road map for a class, outlining its structure, expectatio
 
     <span class='alert'>It is critical that you read the full Syllabus, not an AI summary of the syllabus. This document details all important information you need to be successful in the course</span>
 
-2. In the Digital Earth eLearning course, click on `Quizes and Exams` in the sidebar.
+2. In the Digital Earth Canvas course, click on `Quizes` in the sidebar.
 
 3. Click the "Syllabus Quiz" item and review the instructions. Click **Begin** when you are ready to start the quiz.
 
@@ -40,8 +35,10 @@ A course syllabus is a road map for a class, outlining its structure, expectatio
 
 # Check your grade
 
-1. In the Digital Earth eLearning course, click `My Grades` in the sidebar.
+1. In the Digital Earth eLearning course, click `Grades` in the sidebar.
 
 2. Find the Syllabus Quiz item and check your grade. If your grade is not 100%, go back and re-take the quiz until you score 100%.
 
-3. Take a screenshot of your `My Grades` page that includes your 100% Syllabus quiz grade. Add this screenshot to your lab report document.
+3. Take a screenshot of your `Grades` page that includes your 100% Syllabus quiz grade. Add this screenshot to your lab report document.
+
+   <span class='alert'>If you don't remember how to take a cropped screenshot, you can watch a tutorial on the [Resources](../../resources) page</span>

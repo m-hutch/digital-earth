@@ -9,48 +9,36 @@ multi: True
 next: part4
 prev: part2
 ---
-# Class Microsoft Teams Chat
-Throughout the semester you can use the class Microsoft Teams Chat to ask questions, get help with your assignments, and study for exams.
+# Class Discussions
+Throughout the semester you can use the class discussions to ask questions, get help with your assignments, and study for exams.
 
-1. In your web browser, go to [https://teams.microsoft.com/](https://teams.microsoft.com/)
+1. Navigate to the Digital Earth course at [https://utdallas.instructure.com/](https://utdallas.instructure.com/)
 
-    **If you are prompted to sign in, use your UT Dallas login the same way you log in to your student email (NetID@utdallas.edu)**
+2. On the side bar, click **Discussions** 
 
-2. On the side bar, click the **Teams** icon
-
-    ![](part3_images/image.png)
-
-3. Find the GISC 2307 Team. There are multiple channels:
-    * Announcements - Important class announcements will be posted here
-
-    * Class Chat - Here you can chat with your classmates about any academic related topic
+3. Find the two pinned discussions:
 
     * Introductions - This channel is for introducing yourself
 
-    * Lab Help - This channel is for chatting with your classmates and Teaching Assistants about any issues you have with the lab assignments.
+    * Class Q&A and Lab Help - This channel is for chatting with your classmates and Teaching Assistants about any issues you have with the lab assignments or questions about the class.
 
-    Click on the **Introductions** channel.
+    Click on the **Introductions** discussion.
 
-    ![](part3_images/image2.png)
-
-4. Take some time to read any introductions that are currently in the channel. Practice *reacting* to a message with an emoji by clicking the face icon and selecting an appropriate emoji.
-
-    ![](part3_images/image3.png)
+4. Take some time to read any introductions that are currently in the discussion. You can also reply to any classmates who have shared interests to connect with them.
 
 5. **Post a <u>short</u> introduction of yourself** in the Introductions channel. At a minimum your introduction should include:
-    - your full name
+    - your first name or nickname (how you would like to be called in class)
     - your year in school (e.g. first-year, freshman)
     - your major
     - your home city and state/country
+    - why you registered for this class
 
     *Optional*: You are welcome to include clubs, hobbies, and career interests in your introduction if you would like.
-
-    ![](part3_images/image4.png)
     
-6. Take a screenshot of the message you sent in the teams channel and paste it in your lab report. 
+6. Take a screenshot of the message you posted in the discussion and paste it in your lab report. 
     **The screenshot should just be of your message, not an image of your whole computer screen**
 
-    If you don't remember how to take a cropped screenshot, you can watch a tutorial on the [Resources](../../resources) page
+    <span class='alert'>If you don't remember how to take a cropped screenshot, you can watch a tutorial on the [Resources](../../resources) page</span>
 
 # Quantum Geospatial Information System (QGIS)
 
@@ -58,7 +46,7 @@ QGIS is the mapping software we will use for most assignments this semester. It 
 
 If you have not installed QGIS yet, do that first before proceeding with this section of the lab. You can find installation instructions for your computer's operating system on our [Software](../../software) page.
 
-1. Navigate to your `lab0` folder that you created in the [set up](part1) section.
+1. Navigate to your `lab00` folder that you created in the [set up](part1) section.
 
 2. If QGIS installed correctly, you should see a green icon next to the `scavenger_hunt.qgz` project file. **Double click** this file to open it.
 

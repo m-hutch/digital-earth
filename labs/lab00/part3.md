@@ -38,7 +38,7 @@ Throughout the semester you can use the class discussions to ask questions, get 
 6. Take a screenshot of the message you posted in the discussion and paste it in your lab report. 
     **The screenshot should just be of your message, not an image of your whole computer screen**
 
-    <span class='alert'>If you don't remember how to take a cropped screenshot, you can watch a tutorial on the [Resources](../../resources) page</span>
+    <span class='alert'>If you don't know how to take a cropped screenshot, you can watch a tutorial on the [Resources](../../resources) page</span>
 
 # Quantum Geospatial Information System (QGIS)
 
@@ -50,16 +50,18 @@ If you have not installed QGIS yet, do that first before proceeding with this se
 
 2. If QGIS installed correctly, you should see a green icon next to the `scavenger_hunt.qgz` project file. **Double click** this file to open it.
 
-3. QGIS should open automatically. This may take a few seconds to fully open and load the file.
+   <span class='alert'>If you can't see the `.qgz` at the end of the file, that means you do not have file extensions visible. **It is highly recommended that you turn on file extension display for this course.** You can watch a tutorial on how to do this on the [Resources](../../resources) page</span>
 
-4. In the Menu Bar, click **View**, then hover over the **Panels** options and make sure the **Layers** Panel is checked.
+4. QGIS should open automatically. This may take a few seconds to fully open and load the file.
+
+5. In the Menu Bar, click **View**, then hover over the **Panels** options and make sure the **Layers** Panel is checked.
     ![](part3_images/image5.png)
     ![](part3_images/image6.png)
 
-5. In the Layers panel **Right Click** on the `Digital Earth Message` Layer and select "Zoom to Layer".
+6. In the Layers panel **Right Click** on the `Digital Earth Message` Layer and select "Zoom to Layer".
 
     *If you are using a laptop with a track pad and no mouse button, most laptops use a two-finger click to "right-click"*
 
     ![](part3_images/image7.png)
 
-6. Take a screenshot of your QGIS window with the `scavenger_hunt.qgz` project open and the Digital Earth Message layer visible, and paste the image in your lab report.
+7. Take a screenshot of your QGIS window with the `scavenger_hunt.qgz` project open and the Digital Earth Message layer visible, and paste the image in your lab report.

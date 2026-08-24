@@ -23,7 +23,7 @@ This scavenger hunt will help you get familiar with the Digital Earth Course at 
 These indicators are used to assess student performance:
 
 - **KPI 1**: Identify yourself
-- **KPI 2**: Complete a quiz on the Learning Management System (eLearning)
+- **KPI 2**: Complete a quiz on the Learning Management System (Canvas)
 - **KPI 3**: Access and post in a class discussion
 - **KPI 4**: Install QGIS
 - **KPI 5**: Locate the Green Hall Computer Labs on campus
@@ -53,7 +53,7 @@ The lab will be graded based on these Key Performance Indicators (KPIs):
 |KPI| Description | Total Points  Possible |
 |---|:--|--:|
 |1|Identify yourself and the name you'd like to be called in class|10|
-|2|Successfully complete the Syllabus Quiz, navigate to your My Grades tab for this course and provide a screenshot of your grades page in eLearning|30|
+|2|Successfully complete the Syllabus Quiz, navigate to your My Grades tab for this course and provide a screenshot of your grades page in Canvas|30|
 |3|Navigate to the class discussion and introduce yourself to your classmates on Teams. Introduction includes all required information.|10|
 |4|Install QGIS on your laptop and practice opening a QGIS project file. Provide a screenshot of the open project file and Digital Earth Message layer|10|
 |5|Navigate to the two computer labs in Green Hall. Provide a photo of yourself in front of each lab. |20|

@@ -25,9 +25,9 @@ This guide works for PCs and Laptops running Windows 10 or 11. **Download and in
 ![](images/ascreenshot_2.jpeg)
 
 
-4\. Click **Long Term Version for Windows (3.40 LTR)**
+4\. Click **Long Term Release**
 
-![](images/ascreenshot_3.jpeg)
+   <span>Do not choose the “Latest Release”. That version may be unstable and you will experience frequent crashes, possibly losing hours of work!</span>
 
 
 5\. Once the download is complete, click **"Downloads"** Icon in your browser and then click the **QGIS-OSGeo4W.msi** file
@@ -59,7 +59,7 @@ This guide works for PCs and Laptops running Windows 10 or 11. **Download and in
 
 10\. Click **Finish**
 
-![](images/ascreenshot_9.jpeg)
+
 
 
 11\. Press the Windows key (⊞) to open the Start Menu and type **QGIS**

@@ -29,7 +29,7 @@ This guide works for most Macs and Mac Books (both Intel and Apple Silicon proce
 
 4. Choose the **Long Term Release**. The download should start automatically.
 
-   <span style="color:red">**Do not choose the "Latest Release"**. That version may be unstable and you will experience frequent crashes, possibly loosing hours of work!</span>
+   <span style="color:red">**Do not choose the "Latest Release"**. That version may be unstable and you will experience frequent crashes, possibly losing hours of work!</span>
 
  
 
@@ -37,7 +37,7 @@ This guide works for most Macs and Mac Books (both Intel and Apple Silicon proce
 
    *Note that the download is quite large and may take a up to an hour to complete, depending on your Internet speed*
 
-  ![](images/ascreenshot_3.jpeg)
+   ![](images/ascreenshot_3.jpeg)
 
 
 6. Click the **qgis-macos-pr.dmg** file

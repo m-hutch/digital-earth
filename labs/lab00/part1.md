@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Set up
-description: Learn how to access lab materials on eLearning and open the Lab Report in Microsoft Word.
+description: Learn how to access lab materials on Canvas and open the Lab Report in Microsoft Word.
 permalink: /labs/lab00/part1
 active: True
 nav: False
@@ -20,7 +20,7 @@ Organizing your files is critical for your success in this course. If you are no
 
 # Accessing Lab Materials
 
-1. Log in to [eLearning.utdallas.edu](https://utdallas.instructure.com/){:target="_blank"} with your UT Dallas credentials.
+1. Log in to [utdallas.instructure.com/](https://utdallas.instructure.com/){:target="_blank"} with your UT Dallas credentials.
 
 2. Navigate to the Digital Earth Course. It will be typically called `EPPS-2307.002-GEOS-2307.002-GISC-2307.002`
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Submit your lab report
-description: Learn how to submit your lab report to eLearning.
+description: Learn how to submit your lab report to Canvas.
 permalink: /labs/lab00/part5
 active: True
 nav: False

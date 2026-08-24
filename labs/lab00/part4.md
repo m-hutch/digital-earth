@@ -29,7 +29,7 @@ You can use the UT Dallas online interactive map to easily find rooms on campus.
 
 3. Make a plan for the order you will go to each location based on where each room is on campus. You may also want to check the available hours that each location is open.
 
-    - Green Hall Computer lab hours will be posted on eLearning, and are posted outside the door of each lab.
+    - Green Hall Computer lab hours will be posted on Canvas, and are posted outside the door of each lab.
     - TechKnowlogy Bar Hours: [https://oit.utdallas.edu/servicedesk/techknowledgybar/](https://oit.utdallas.edu/servicedesk/techknowledgybar/){:target="_blank"}
     - Service Desk Hours: [https://oit.utdallas.edu/servicedesk/service-desk-hours/](https://oit.utdallas.edu/servicedesk/service-desk-hours/){:target="_blank"}
 

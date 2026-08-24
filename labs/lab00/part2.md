@@ -35,7 +35,7 @@ A course syllabus is a road map for a class, outlining its structure, expectatio
 
 # Check your grade
 
-1. In the Digital Earth eLearning course, click `Grades` in the sidebar.
+1. In the Digital Earth Canvas course, click `Grades` in the sidebar.
 
 2. Find the Syllabus Quiz item and check your grade. If your grade is not 100%, go back and re-take the quiz until you score 100%.
 

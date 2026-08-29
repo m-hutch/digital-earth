@@ -73,7 +73,9 @@ The lab will be graded based on the Key Performance Indicators (KPIs):
 
 ## Set Up
 
-Create a folder called `lab06` in your digital-earth folder on your computer and save the Lab 6 report document and data folder to this folder. Make sure the extract (unzip) the `data.zip` folder.
+Create a folder called `lab06` in your digital-earth folder on your computer and save the [Lab 6 report document](https://utdallas.box.com/v/2307-lab6-report) and [data folder](https://utdallas.box.com/v/2307-lab6-data) to this folder. Make sure the extract (unzip) the `data.zip` folder.
+
+[Example Layout](https://utdallas.box.com/v/2307-lab6-example)
 
 Before starting the lab:
 

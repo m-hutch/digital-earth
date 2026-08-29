@@ -21,7 +21,7 @@ prev: part9
     - Lab02_Report.docx
     - Texas Cities and Roads.png
 
-    <span class='alert'>Your lab report must be submitted as a `.docx` file. DO NOT submit a `.pages` file or a `.pdf` file
+    <span class='alert'>Your lab report must be submitted as a `.docx` or `.pdf` file. You will not be able to submit a `.pages` file or any other file type.
     </span>
 
 2. Submit the assignment

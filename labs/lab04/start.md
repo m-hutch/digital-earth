@@ -55,7 +55,7 @@ The lab will be graded based on the Key Performance Indicators (KPIs):
 |---|---|---|
 |//	| Completion of this Checklist	|2|
 |//	| First and Last name written in the header of your lab report	| 2 |
-|//|	Map layout is submitted as a high-resolution PDF file, professionally formatted and generally legible	|6|
+|//|	Map layout is submitted as a high-resolution file, professionally formatted and generally legible	|6|
 |1| Digitize feature from a georeferenced image: Park Footprint is visible and closely matches the shape and location of the provided reference image |10|
 |2| Create Point Features: At least two guest entrances and one staff entrance are visible, appropriately named and labeled |10|
 |3| Create Line Features: At least two distinct walking paths are visible, appropriately named and labeled |10|
@@ -70,7 +70,7 @@ The lab will be graded based on the Key Performance Indicators (KPIs):
 |8b| Appropriately formatted Legend |2|
 |8c| Appropriate Title |2|
 |8d| Coordinate Reference System (CRS) Name |2|
-|8e| Name & Date |2|
+|8e| Name & Date on map layout|2|
 
 
 

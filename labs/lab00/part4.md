@@ -59,4 +59,4 @@ Next we will learn how to navigate to the locations using a smartphone.
 
 7. Repeat steps 2 through 6 for the remaining three locations.
 
-8. Add your photos to your lab report. If you aren't sure how to transfer photos from your phone to your computer, you can use the instructions on the class [Resources](../../resources) page. **Make sure to label each photo and resize each photo appropriately so that it fits on the page. You must include visible photos in the report document; links to image files will receive no points for this KPI. **
+8. Add your photos to your lab report. If you aren't sure how to transfer photos from your phone to your computer, you can use the instructions on the class [Resources](../../resources) page. **Make sure to label each photo and resize each photo appropriately so that it fits on the page. You must include visible photos in the report document; links to image files will receive no points for this KPI.**

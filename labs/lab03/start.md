@@ -34,7 +34,7 @@ These indicators are used to assess student performance.
 * Microsoft Word  
 * QGIS
 * Computer with an Internet connection
-* Data files from eLearning:  
+* Data files from Canvas:  
 	* texas_cities.zip
 	* texas_roads.zip
 	* texas_counties.zip

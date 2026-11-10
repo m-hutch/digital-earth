@@ -153,5 +153,5 @@ next: part8
     ![](part7_images/screenshot_2.webp)
 
 
-26. Export your postcard as a PDF. Turn in the postcard design with your completed lab checklist
+26. Export your postcard as a PDF. Make sure these options in the Export PDF window are **unchecked** "always export as vectors" and "simplify geometries" (under advanced options). Turn in the postcard design with your completed lab checklist
 
